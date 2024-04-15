@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b7857aa-0156-43bc-b97d-001f7730ef79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C01_IlkTestOtomasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C02_ByClassNameLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C03_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C04_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C05_ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C05_soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C06_soru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +48,9 @@
       <recent name="C:\Users\acer\Pratik1\KurulumDosyalari" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_IlkTestOtomasyonu">
-    <configuration name="C01_IlkTestOtomasyonu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C01_IlkTestOtomasyonu" />
+  <component name="RunManager" selected="Application.C06_soru">
+    <configuration name="C03_ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C03_ornek" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_DriverNavigateMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.Day2.C03_DriverNavigateMethodlari" />
+    <configuration name="C04_ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C04_ornek" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Tekrar1.Day2.*" />
+          <option name="PATTERN" value="Tests.Tekrar1.day03_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DriverNavigateMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.Day2.C04_DriverNavigateMethodlari" />
+    <configuration name="C05_ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C05_ornek" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Tekrar1.Day2.*" />
+          <option name="PATTERN" value="Tests.Tekrar1.day03_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_DriverManageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.Day2.C05_DriverManageMethodlari" />
+    <configuration name="C05_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C05_soru" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Tekrar1.Day2.*" />
+          <option name="PATTERN" value="Tests.Tekrar1.day03_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_PozisyonBoyutManageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.Day2.C06_PozisyonBoyutManageMethodlari" />
+    <configuration name="C06_soru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C06_soru" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Tekrar1.Day2.*" />
+          <option name="PATTERN" value="Tests.Tekrar1.day03_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_IlkTestOtomasyonu" />
-        <item itemvalue="Application.C06_PozisyonBoyutManageMethodlari" />
-        <item itemvalue="Application.C05_DriverManageMethodlari" />
-        <item itemvalue="Application.C04_DriverNavigateMethodlari" />
-        <item itemvalue="Application.C03_DriverNavigateMethodlari" />
+        <item itemvalue="Application.C06_soru" />
+        <item itemvalue="Application.C05_soru" />
+        <item itemvalue="Application.C03_ornek" />
+        <item itemvalue="Application.C05_ornek" />
+        <item itemvalue="Application.C04_ornek" />
       </list>
     </recent_temporary>
   </component>
