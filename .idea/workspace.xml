@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b7857aa-0156-43bc-b97d-001f7730ef79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day1/C02_SeleniumWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day1/C03_WebDriverObjesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C01_DriverMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C02_IlkOtomasyonTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C03_DriverNavigateMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C04_DriverNavigateMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C05_DriverManageMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/Day2/C06_PozisyonBoyutManageMethodlari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7b7857aa-0156-43bc-b97d-001f7730ef79" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
