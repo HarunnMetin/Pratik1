@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b7857aa-0156-43bc-b97d-001f7730ef79" name="Changes" comment="" />
+    <list default="true" id="7b7857aa-0156-43bc-b97d-001f7730ef79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/Tekrar1/day03_Locators/C01_IlkTestOtomasyonu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +43,13 @@
       <recent name="C:\Users\acer\Pratik1\KurulumDosyalari" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06_PozisyonBoyutManageMethodlari">
-    <configuration name="C02_IlkOtomasyonTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.Day2.C02_IlkOtomasyonTesti" />
+  <component name="RunManager" selected="Application.C01_IlkTestOtomasyonu">
+    <configuration name="C01_IlkTestOtomasyonu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Tekrar1.day03_Locators.C01_IlkTestOtomasyonu" />
       <module name="Pratik1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.Tekrar1.Day2.*" />
+          <option name="PATTERN" value="Tests.Tekrar1.day03_Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_IlkTestOtomasyonu" />
         <item itemvalue="Application.C06_PozisyonBoyutManageMethodlari" />
         <item itemvalue="Application.C05_DriverManageMethodlari" />
         <item itemvalue="Application.C04_DriverNavigateMethodlari" />
         <item itemvalue="Application.C03_DriverNavigateMethodlari" />
-        <item itemvalue="Application.C02_IlkOtomasyonTesti" />
       </list>
     </recent_temporary>
   </component>
